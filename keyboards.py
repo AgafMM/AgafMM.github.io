@@ -1,7 +1,7 @@
 from aiogram.types import WebAppInfo, InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram import types 
 
-web_app = WebAppInfo(url='https://myatnoemorozhenko.github.io/')
+web_app = WebAppInfo(url='https://agafmm.github.io/')
 
 """keyboard = types.InlineKeyboardMarkup(
     keyboard=[
